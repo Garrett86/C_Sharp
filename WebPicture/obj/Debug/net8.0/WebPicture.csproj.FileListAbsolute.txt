@@ -1,0 +1,101 @@
+C:\Users\USER\Desktop\20241206\WebPicture\WebPicture\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\USER\Desktop\20241206\WebPicture\WebPicture\bin\Debug\net8.0\appsettings.json
+C:\Users\USER\Desktop\20241206\WebPicture\WebPicture\bin\Debug\net8.0\WebPicture.staticwebassets.runtime.json
+C:\Users\USER\Desktop\20241206\WebPicture\WebPicture\bin\Debug\net8.0\WebPicture.exe
+C:\Users\USER\Desktop\20241206\WebPicture\WebPicture\bin\Debug\net8.0\WebPicture.deps.json
+C:\Users\USER\Desktop\20241206\WebPicture\WebPicture\bin\Debug\net8.0\WebPicture.runtimeconfig.json
+C:\Users\USER\Desktop\20241206\WebPicture\WebPicture\bin\Debug\net8.0\WebPicture.dll
+C:\Users\USER\Desktop\20241206\WebPicture\WebPicture\bin\Debug\net8.0\WebPicture.pdb
+C:\Users\USER\Desktop\20241206\WebPicture\WebPicture\obj\Debug\net8.0\WebPicture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\20241206\WebPicture\WebPicture\obj\Debug\net8.0\WebPicture.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\20241206\WebPicture\WebPicture\obj\Debug\net8.0\WebPicture.AssemblyInfo.cs
+C:\Users\USER\Desktop\20241206\WebPicture\WebPicture\obj\Debug\net8.0\WebPicture.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\20241206\WebPicture\WebPicture\obj\Debug\net8.0\WebPicture.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\20241206\WebPicture\WebPicture\obj\Debug\net8.0\WebPicture.RazorAssemblyInfo.cache
+C:\Users\USER\Desktop\20241206\WebPicture\WebPicture\obj\Debug\net8.0\WebPicture.RazorAssemblyInfo.cs
+C:\Users\USER\Desktop\20241206\WebPicture\WebPicture\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\USER\Desktop\20241206\WebPicture\WebPicture\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\USER\Desktop\20241206\WebPicture\WebPicture\obj\Debug\net8.0\staticwebassets\msbuild.WebPicture.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\Desktop\20241206\WebPicture\WebPicture\obj\Debug\net8.0\staticwebassets\msbuild.build.WebPicture.props
+C:\Users\USER\Desktop\20241206\WebPicture\WebPicture\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebPicture.props
+C:\Users\USER\Desktop\20241206\WebPicture\WebPicture\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebPicture.props
+C:\Users\USER\Desktop\20241206\WebPicture\WebPicture\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\USER\Desktop\20241206\WebPicture\WebPicture\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\USER\Desktop\20241206\WebPicture\WebPicture\obj\Debug\net8.0\scopedcss\bundle\WebPicture.styles.css
+C:\Users\USER\Desktop\20241206\WebPicture\WebPicture\obj\Debug\net8.0\scopedcss\projectbundle\WebPicture.bundle.scp.css
+C:\Users\USER\Desktop\20241206\WebPicture\WebPicture\obj\Debug\net8.0\WebPicture.dll
+C:\Users\USER\Desktop\20241206\WebPicture\WebPicture\obj\Debug\net8.0\refint\WebPicture.dll
+C:\Users\USER\Desktop\20241206\WebPicture\WebPicture\obj\Debug\net8.0\WebPicture.pdb
+C:\Users\USER\Desktop\20241206\WebPicture\WebPicture\obj\Debug\net8.0\WebPicture.genruntimeconfig.cache
+C:\Users\USER\Desktop\20241206\WebPicture\WebPicture\obj\Debug\net8.0\ref\WebPicture.dll
+C:\Users\USER\Desktop\20241206\WebPicture\WebPicture\bin\Debug\net8.0\libman.json
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture\WebPicture\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture\WebPicture\bin\Debug\net8.0\appsettings.json
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture\WebPicture\bin\Debug\net8.0\libman.json
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture\WebPicture\bin\Debug\net8.0\WebPicture.staticwebassets.runtime.json
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture\WebPicture\bin\Debug\net8.0\WebPicture.exe
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture\WebPicture\bin\Debug\net8.0\WebPicture.deps.json
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture\WebPicture\bin\Debug\net8.0\WebPicture.runtimeconfig.json
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture\WebPicture\bin\Debug\net8.0\WebPicture.dll
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture\WebPicture\bin\Debug\net8.0\WebPicture.pdb
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture\WebPicture\obj\Debug\net8.0\WebPicture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture\WebPicture\obj\Debug\net8.0\WebPicture.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture\WebPicture\obj\Debug\net8.0\WebPicture.AssemblyInfo.cs
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture\WebPicture\obj\Debug\net8.0\WebPicture.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture\WebPicture\obj\Debug\net8.0\WebPicture.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture\WebPicture\obj\Debug\net8.0\WebPicture.RazorAssemblyInfo.cache
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture\WebPicture\obj\Debug\net8.0\WebPicture.RazorAssemblyInfo.cs
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture\WebPicture\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture\WebPicture\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture\WebPicture\obj\Debug\net8.0\staticwebassets\msbuild.WebPicture.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture\WebPicture\obj\Debug\net8.0\staticwebassets\msbuild.build.WebPicture.props
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture\WebPicture\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebPicture.props
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture\WebPicture\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebPicture.props
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture\WebPicture\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture\WebPicture\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture\WebPicture\obj\Debug\net8.0\scopedcss\bundle\WebPicture.styles.css
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture\WebPicture\obj\Debug\net8.0\scopedcss\projectbundle\WebPicture.bundle.scp.css
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture\WebPicture\obj\Debug\net8.0\WebPicture.dll
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture\WebPicture\obj\Debug\net8.0\refint\WebPicture.dll
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture\WebPicture\obj\Debug\net8.0\WebPicture.pdb
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture\WebPicture\obj\Debug\net8.0\WebPicture.genruntimeconfig.cache
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture\WebPicture\obj\Debug\net8.0\ref\WebPicture.dll
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\bin\Debug\net8.0\appsettings.json
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\bin\Debug\net8.0\libman.json
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\bin\Debug\net8.0\WebPicture.staticwebassets.runtime.json
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\bin\Debug\net8.0\WebPicture.exe
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\bin\Debug\net8.0\WebPicture.deps.json
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\bin\Debug\net8.0\WebPicture.runtimeconfig.json
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\bin\Debug\net8.0\WebPicture.dll
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\bin\Debug\net8.0\WebPicture.pdb
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\obj\Debug\net8.0\WebPicture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\obj\Debug\net8.0\WebPicture.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\obj\Debug\net8.0\WebPicture.AssemblyInfo.cs
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\obj\Debug\net8.0\WebPicture.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\obj\Debug\net8.0\WebPicture.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\obj\Debug\net8.0\WebPicture.RazorAssemblyInfo.cache
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\obj\Debug\net8.0\WebPicture.RazorAssemblyInfo.cs
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\obj\Debug\net8.0\staticwebassets\msbuild.WebPicture.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\obj\Debug\net8.0\staticwebassets\msbuild.build.WebPicture.props
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebPicture.props
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebPicture.props
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\obj\Debug\net8.0\scopedcss\bundle\WebPicture.styles.css
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\obj\Debug\net8.0\scopedcss\projectbundle\WebPicture.bundle.scp.css
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\obj\Debug\net8.0\WebPicture.dll
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\obj\Debug\net8.0\refint\WebPicture.dll
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\obj\Debug\net8.0\WebPicture.pdb
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\obj\Debug\net8.0\WebPicture.genruntimeconfig.cache
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\obj\Debug\net8.0\ref\WebPicture.dll
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\obj\Debug\net8.0\WebPicture.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\練習\20241206\lccent_Project\WebPicture - Ver.1\WebPicture\obj\Debug\net8.0\WebPicture.csproj.Up2Date

@@ -1,0 +1,11 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    var items = ViewData["img"] as List<Item>;
+    var json = System.Text.Json.JsonSerializer.Serialize(items);
+}
+<form action="/Home/addAccount" method="post">
+    <input type="hidden" name="jsonItems" value='@json' />
+    <input class="btn btn-default" type="submit" value="新增" />
+</form>
